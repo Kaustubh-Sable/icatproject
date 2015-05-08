@@ -13,13 +13,14 @@ features.
  * Suds, either the [https://fedorahosted.org/suds/ original version] or the [https://bitbucket.org/jurko/suds/ fork by Jurko Gospodnetić].  The latter is recommended as the original version is not maintained any more and contains bugs.  Python 3 requires the jurko fork.
  * [http://pyyaml.org/wiki/PyYAML PyYAML].  (Only needed to use the YAML backend of icatdump.py and icatrestore.py and to run the example scripts.  Not required to install or use python-icat itself.)
  * [http://lxml.de/ lxml].  (Only needed to use the XML backend of icatdump.py and icatrestore.py.  Not required to install or use python-icat itself.)
+ * [http://python-requests.org/ Requests].  (Only needed for the example scripts using the ICAT RESTful interface, icatexport.py and icatimport.py.  Not required to install or use python-icat itself.)
  * [http://code.google.com/p/argparse/ argparse]. (Only for Python 2.6 and 3.1, argparse became part of the Python standard library in 2.7 and 3.2 respectively.)
 
 == Download ==
 
 Current Release:
 
- * [http://icatproject.googlecode.com/svn/contrib/python-icat/python-icat-0.7.0.tar.gz python-icat 0.7.0] ([http://icatproject.googlecode.com/svn/contrib/python-icat/python-icat-0.7.0.tar.gz.asc signature])
+ * [http://icatproject.googlecode.com/svn/contrib/python-icat/python-icat-0.8.0.tar.gz python-icat 0.8.0] ([http://icatproject.googlecode.com/svn/contrib/python-icat/python-icat-0.8.0.tar.gz.asc signature])
 
 Old versions can also be found [http://icatproject.googlecode.com/svn/contrib/python-icat/ here].
 
