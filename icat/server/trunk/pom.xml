@@ -28,7 +28,7 @@
 		<uniqueVersion>false</uniqueVersion>
 		<maven.install.skip>false</maven.install.skip>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-		<luceneVersion>4.10.2</luceneVersion>
+		<luceneVersion>8.4.0</luceneVersion>
 	</properties>
 
 	<repositories>
